@@ -14,12 +14,14 @@ header {
     background-color: violet;
     width: 100%;
     height: 5vh;
+    margin-top: none;
 }
 
 #milieu p {
     padding: 30px;
     background-color: rgb(255, 196, 0);
     height: 100px;
+    margin : -20px;
 }
 
 footer {
