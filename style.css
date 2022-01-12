@@ -17,7 +17,7 @@ header {
     height: 5vh;
 }
 
-#milieu {
+#milieu div {
     margin: -30px;
     background-color: rgb(255, 196, 0);
     height: 50vh;
