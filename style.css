@@ -1,8 +1,12 @@
-body {
+/*body {
     border: 10px solid black;
-}
+}*/
 header {
     background-color: navy;
     width: 100%;
     height: 200px;
+}
+
+p {
+    color : black
 }
