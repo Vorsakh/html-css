@@ -19,7 +19,7 @@ header {
 
 #milieu {
     margin: -30px;
-    background-color: yellow;
+    background-color: rgb(255, 196, 0);
     height: 50vh;
 }
 
@@ -29,10 +29,6 @@ header {
 
 footer {
     background-color: grey;
-    height: 30px;
+    height: 60px;
     margin: 0;
-}
-
-p {
-    color : black
 }
